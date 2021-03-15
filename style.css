@@ -27,6 +27,7 @@ body {
 
 .tabs {
   display: grid;
+  margin: 2rem;
 }
 
 [role="tablist"] {
